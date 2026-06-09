@@ -32,8 +32,8 @@ OOP • DSA • Backend Architecture
 - Deployment and reliability engineering
 
 ## Certifications
-- ServiceNow CSA
-- ServiceNow CAD
+- [ServiceNow CSA](https://www.credly.com/badges/d6de58d6-0357-4e28-85e7-3427450ba137)
+- [ServiceNow CAD](https://www.credly.com/earner/earned/share/86cc0b53-0e4e-4f08-8d71-bb9973470072)
 
 ## Open To
 - Backend Engineering Opportunities
